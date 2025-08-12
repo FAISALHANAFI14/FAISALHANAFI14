@@ -1,7 +1,7 @@
 ## Hay! saya Faisal Hanafi 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAISALHANAFI14)
 [![GitHub](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hnfi_1406)
-[![GitHub](https://img.shields.io/badge/ibrahimnaja19@gmail.com-100000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/ibrahim+naja19%40gmail.com)
+[![GitHub](https://img.shields.io/badge/ibrahimnaja19@gmail.com-100000?style=for-the-badge&logo=gmail&logoColor=lighblue)](https://mail.google.com/mail/u/0/#search/ibrahim+naja19%40gmail.com)
 
 
 ### Skill Yang Di Pelajari 📈
