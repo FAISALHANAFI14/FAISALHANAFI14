@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAISALHANAFI14)
 
-[Instagram ![ig](file:///C:/Users/HP/Downloads/instagram.svg)](https://www.instagram.com/hnfi_1406)
+[Instagram ![ig](instagram.svg)](https://www.instagram.com/hnfi_1406)
 
 ### Skill Yang Di Pelajari 💻
 
