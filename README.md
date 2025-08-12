@@ -20,7 +20,7 @@
 </p>
 
 ![habi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtNnRtYXd2ZHFiNjNzMnVuaWlja2l3dGt6bG14dXBhMTA5dXRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif)
-![habi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtNnRtYXd2ZHFiNjNzMnVuaWlja2l3dGt6bG14dXBhMTA5dXRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif)
-
+![habi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM5eHNweTdwNzBva2xoMHh0cWJjNXBxb2ZpM3d3dmdxM2NneDg3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CF5JK0bAdnRHvaETg9/giphy.gif)
+![habi](https://media.giphy.com/media/Ln7lvxzigeCrXw9kNh/giphy.gif)
 
 ## Terima kasih sudah membantu 
