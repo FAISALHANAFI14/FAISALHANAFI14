@@ -18,3 +18,5 @@
 </p>
 
 ![habi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtNnRtYXd2ZHFiNjNzMnVuaWlja2l3dGt6bG14dXBhMTA5dXRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif)
+
+## Terima kasih sudah membantu 
