@@ -25,18 +25,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAISALHANAFI14&show_icons=true&theme=highcontrast)
 
-#### Play game
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/faisal/faisal/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal/faisal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal/faisal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faisal/faisal/output/pacman-contribution-graph.svg">
-</picture>
-
-###
