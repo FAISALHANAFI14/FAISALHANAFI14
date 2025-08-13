@@ -20,6 +20,23 @@
 </p>
 
 ![habi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtNnRtYXd2ZHFiNjNzMnVuaWlja2l3dGt6bG14dXBhMTA5dXRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif)
-![habi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM5eHNweTdwNzBva2xoMHh0cWJjNXBxb2ZpM3d3dmdxM2NneDg3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CF5JK0bAdnRHvaETg9/giphy.gif)
 
-##### Terima kasih sudah membantu :)
+#### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAISALHANAFI14&show_icons=true&theme=highcontrast)
+
+#### Play game
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/faisal/faisal/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal/faisal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal/faisal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faisal/faisal/output/pacman-contribution-graph.svg">
+</picture>
+
+###
