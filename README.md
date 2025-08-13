@@ -1,10 +1,10 @@
-## Hay! saya Faisal Hanafi 
+![faisal](img/github-header-banner.png)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAISALHANAFI14)
 [![GitHub](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hnfi_1406)
 [![GitHub](https://img.shields.io/badge/ibrahimnaja19@gmail.com-100000?style=for-the-badge&logo=gmail&logoColor=lighblue)](https://mail.google.com/mail/u/0/#search/ibrahim+naja19%40gmail.com)
 
-
-### Skill Yang Di Pelajari 📈
+##### Skill Yang Di Pelajari
 
 <p >
     <a href="https://www.w3.org/html/" target="_blank"> <img
@@ -22,5 +22,4 @@
 ![habi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtNnRtYXd2ZHFiNjNzMnVuaWlja2l3dGt6bG14dXBhMTA5dXRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif)
 ![habi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM5eHNweTdwNzBva2xoMHh0cWJjNXBxb2ZpM3d3dmdxM2NneDg3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CF5JK0bAdnRHvaETg9/giphy.gif)
 
-
-## Terima kasih sudah membantu 
+##### Terima kasih sudah membantu :)
